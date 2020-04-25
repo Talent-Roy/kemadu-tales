@@ -134,9 +134,12 @@ export default class Index extends React.Component {
 								</div>
 								<div className="field">
 									<span
-										className="btn is-link float-right"
+										className="btn is-link"
 										type="submit"
-										style={{ padding: '1rem 5rem 1rem 4rem' }}
+										style={{
+											padding: '1rem 5rem 1rem 4rem',
+											cursor: 'pointer',
+										}}
 									>
 										Send
 									</span>
