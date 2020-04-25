@@ -1,0 +1,22 @@
+   .feature {
+       height: 45vh;
+       width: 40%;
+       margin: 0;
+       background-color: yellow;
+   }
+
+   .feature text {
+       font-size: 20vh;
+       stroke: #000;
+       stroke-width: .5mm;
+       fill: transparent;
+   }
+
+   .feature text {
+       paint-order: stroke;
+       transition: fill 1s;
+   }
+
+   .feature:hover text {
+       fill: #000;
+   }

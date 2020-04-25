@@ -1,14 +1,28 @@
 @import "~bulma/sass/utilities/initial-variables"
-
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 // Config vars
 // Kaldi logo brand color: #FD461E
-$kaldi-red: #D64000
+$tech-black: #000000
 $kaldi-red-invert: #fff
 
-$primary: $kaldi-red
+$primary: $tech-black
 $primary-invert: $kaldi-red-invert
-$body-color: #333
-$black: #2b2523
+$body-color: #ffffff
+$black: #000000
+
+body
+  color: #000000
+  overflow: hidden
+  max-width: 2560px
+
+p
+ font-family: 'Raleway', sans-serif;
+ font-size: 1rem
+ color: #000000
+
+h1,h2,h3,h4,h5,h6
+ color: #000000
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -31,7 +45,7 @@ $black: #2b2523
 // Helper Classes
 .full-width-image-container
   width: 100vw
-  height: 400px
+  height: 70vh
   position: relative
   left: 50%
   right: 50%
@@ -42,9 +56,10 @@ $black: #2b2523
   justify-content: center
   align-items: center
 
+
 .full-width-image
     width: 100vw
-    height: 400px
+    height: 80vh
     background-size: cover
     background-position: bottom
     display: flex
@@ -61,10 +76,10 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
-    text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px #f40
+    color: #000
+    text-align: center 
+    -webkit-box-shadow: inset 0 0 0 2px #000
+    box-shadow: inset 0 0 0 2px #000
     -webkit-transition: all .15s ease
     transition: all .15s ease
 
@@ -83,6 +98,16 @@ $black: #2b2523
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
+
+.temp-logo
+   font-size: 1.6rem
+   font-family: 'Pacifico', cursive;
+
+.footer-logo
+   font-size: 2.8rem
+   font-family: 'Pacifico', cursive;
+   color: #ffffff
+   text-align: center !important;
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -138,3 +163,4 @@ $menu-label-color: $white-ter
     text-align: center;
     max-width: 70%;
     margin: 0 0 1em;
+
