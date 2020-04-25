@@ -88,9 +88,14 @@ export const IndexPageTemplate = ({
 								</div>{' '}
 								<Features gridItems={intro.blurbs} />{' '}
 								<div className="columns">
-									<div className="column is-12 has-text-centered">
+									<div className="column is-6 has-text-centered">
 										<Link className="btn" to="/products">
 											Learn more{' '}
+										</Link>{' '}
+									</div>{' '}
+									<div className="column is-6 has-text-centered">
+										<Link className="btn" to="/contact">
+											Contact Us{' '}
 										</Link>{' '}
 									</div>{' '}
 								</div>{' '}
@@ -177,7 +182,7 @@ export const pageQuery = graphql`
 					blurbs {
 						image {
 							childImageSharp {
-								fluid(maxWidth: 240, quality: 64) {
+								fluid(maxWidth: 1000, quality: 100) {
 									...GatsbyImageSharpFluid
 								}
 							}

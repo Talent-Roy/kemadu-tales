@@ -48,6 +48,16 @@ export const ProductPageTemplate = ({
 							<h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
 							<p>{description}</p>
 						</div>
+						<div className="column is-5">
+							<div
+								className="column is-6 has-text-centered"
+								style={{ padding: '2.5rem 0 2.5rem 0' }}
+							>
+								<Link className="btn" to="/contact">
+									Contact Us{' '}
+								</Link>{' '}
+							</div>{' '}
+						</div>
 					</div>
 					<div className="columns">
 						<div className="column is-10 is-offset-1">
@@ -59,9 +69,21 @@ export const ProductPageTemplate = ({
 									</h3>
 									<p>
 										{main.description}&ensp;
-										<Link className="btn" to="/contact/examples">
-											Learn more
-										</Link>
+										<div
+											className="columns"
+											style={{ padding: '2rem 0 2rem 0' }}
+										>
+											<div className="column is-3 has-text-centered">
+												<Link className="btn" to="/contact">
+													Register Now!{' '}
+												</Link>{' '}
+											</div>{' '}
+											<div className="column is-3 has-text-centered">
+												<Link className="btn" to="/contact/examples">
+													Learn More{' '}
+												</Link>{' '}
+											</div>{' '}
+										</div>{' '}
 									</p>
 								</div>
 							</div>
@@ -132,7 +154,10 @@ export const ProductPageTemplate = ({
 														</div>
 													</div>
 													<footer className="card-footer">
-														<Link className="card-footer-item" to="/contact">
+														<Link
+															className="btn card-footer-item"
+															to="/contact"
+														>
 															Register Now!
 														</Link>
 													</footer>
@@ -166,6 +191,13 @@ export const ProductPageTemplate = ({
 							<p>
 								<Pricing data={pricing.plans} />
 							</p>
+							<Link
+								className="btn"
+								to="/contact"
+								style={{ marginLeft: '5rem' }}
+							>
+								Register
+							</Link>
 						</div>
 					</div>
 				</div>
