@@ -133,9 +133,13 @@ export default class Index extends React.Component {
 									</div>
 								</div>
 								<div className="field">
-									<button className="button is-link" type="submit">
+									<span
+										className="btn is-link float-right"
+										type="submit"
+										style={{ padding: '1rem 5rem 1rem 4rem' }}
+									>
 										Send
-									</button>
+									</span>
 								</div>
 							</form>
 						</div>
