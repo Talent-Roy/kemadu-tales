@@ -7,7 +7,7 @@ const FeatureGrid = ({ gridItems }) => (
 	<div className="columns is-multiline">
 		{' '}
 		{gridItems.map((item) => (
-			<div key={item.text} className="column is-6 big ">
+			<div key={item.text} className="column is-6 big feature-wrap">
 				<div className="card card-shadow  feature-card">
 					<div class="card-image">
 						<figure>

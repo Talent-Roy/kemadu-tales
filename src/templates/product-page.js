@@ -64,7 +64,10 @@ export const ProductPageTemplate = ({
 							<Features gridItems={intro.blurbs} />
 							<div className="columns">
 								<div className="column is-12">
-									<h3 className="has-text-weight-semibold is-size-3">
+									<h3
+										className="has-text-weight-semibold is-size-3"
+										style={{ marginTop: '2rem' }}
+									>
 										{main.heading}
 									</h3>
 									<p>

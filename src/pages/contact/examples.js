@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'gatsby-link';
 import Layout from '../../components/Layout';
 import codeImg from '../../../static/img/home-kids.jpg';
+import ClubIcon from '../../../static/img/code-club-icon.png';
 import './contact.scss';
 
 export default class Index extends React.Component {
@@ -10,9 +11,9 @@ export default class Index extends React.Component {
 			<Layout>
 				<p className="has-text-centered kids-club-header">
 					<strong>
-						Kids{' '}
+						Kids
 						<img
-							src="https://lh3.googleusercontent.com/proxy/gdlGMEFF_4906R3FATFV91tUd08rglxEBDeGcGCwuPMclywQeeRgXJhOxT34mnUzcyQnO1l9Jt5gwofCQqjKCcBGf-E3AFkBZMSWQfx0YghBrB603Ms"
+							src={ClubIcon}
 							alt="kids code club"
 							className="is-fluid code-club-img"
 						/>
@@ -100,7 +101,7 @@ export default class Index extends React.Component {
 								Drawing shapes and patterns with Python turtle module will help
 								kids overcome their first barriers with animation and game
 								design. In a short time, they’ll be able code their own apps for
-								Mac, PC, or Linux.
+								Mac, Windows, or Linux.
 							</p>
 							&emsp;
 							<p>

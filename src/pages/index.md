@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Services That Gives You Control.
+title: Boost Your Reach And Productivity.
 image: /img/home-header.jpg
 heading: Knowledge is power!
-subheading: Massively increase your productivity, learn mordern computer technologies.
+subheading: Get Things Done Quicker, Learn Moderrn Technologies.
 mainpitch:
   title: Our Offer
   description: >
@@ -29,24 +29,18 @@ intro:
         short time. You'll learn by building projects that you can be proud of while also enriching your portfolio. Our students don't find it difficult to land a well paying job upon completion of our courses. Take that bold step today and enroll with us!
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    We teach mordern computer technologies to help you improve your level of productivity in the office or employability as a job seeker. Our courses range from: basic computer skill courses to more advanced courses in web and software development. We assist companies upgrade their staffs IT skill. Our curriculums and teaching pattern have being designed to be flexible and easy to follow along.
 main:
-  heading: Great coffee with no compromises
+  heading: Do more, take control
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Many start-ups and well established companies who understand the link between technology and business growth are constantly upgrading their staffs by creating opportunities for them to learn new tools and modern technologies to make them more efficient in their various capacities and better manage precious resources such as time, cash flow, physical space, customer database and much more.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: Kids learning scratch in class
+    image: /img/kid-lab.jpeg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Learning computer in class
+    image: /img/code-class.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: Company staff upgrade
+    image: /img/home-company.jpg
 ---

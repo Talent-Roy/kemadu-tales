@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Tales Media',
-    description: 'Tales media is a company that helps you learn mordern computer technologies quick, and boost your productivity.',
+    title: 'Techgrade',
+    description: 'Techgrade is a company that helps you learn mordern computer technologies quick, and boost your productivity.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
