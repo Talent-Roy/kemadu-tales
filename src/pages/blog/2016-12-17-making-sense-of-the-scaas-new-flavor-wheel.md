@@ -1,21 +1,19 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: How to learn computer skills 2020
 date: 2016-12-17T15:04:10.000Z
 description: The Coffee Taster’s Flavor Wheel, the official resource used by
   coffee tasters, has been revised for the first time this year.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/adult-class.png
 tags:
   - computer skills
 ---
-![computer skills](/img/home-class.jpg)
+![computer skills](/img/home-class.jpg "Most likely, you only have so much free time that you can dedicate to learning a new skill. Accordingly, it’s important to use that time wisely. Whether you’re looking to pivot your career or level up within your current field, analyzing.....")
 
 With technology becoming more and more prevalent in the workplace, it’s more important than ever to have basic computer hardware and software skills. An employer will be looking for computer skills on your resume, and you need to be able to walk the walk in addition to talk to the talk—meaning that you need to be able to know how to use a computer when you’re on the job.
 
 Here are 5 free and easy way to improve your computer skills.
-
-
 
 > Short on time? register with us to start learning all you need to become a master in a very short time.
 
