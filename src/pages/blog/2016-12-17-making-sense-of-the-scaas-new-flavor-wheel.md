@@ -1,15 +1,18 @@
 ---
 templateKey: blog-post
 title: How to learn computer skills 2020
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by
-  coffee tasters, has been revised for the first time this year.
+date: 2020-04-15T00:04:30.456Z
+description: With technology becoming more and more prevalent in the workplace,
+  it’s more important than ever to have basic computer hardware and software
+  skills. An employer will be looking for computer skills on your resume, and
+  you need to be able to walk the walk in addition to talk to the talk—meaning
+  that you need to be able to know how to use a computer when you’re on the job.
 featuredpost: false
 featuredimage: /img/adult-class.png
 tags:
   - computer skills
 ---
-![computer skills](/img/home-class.jpg "Most likely, you only have so much free time that you can dedicate to learning a new skill. Accordingly, it’s important to use that time wisely. Whether you’re looking to pivot your career or level up within your current field, analyzing.....")
+![computer skills](/img/home-class.jpg)
 
 With technology becoming more and more prevalent in the workplace, it’s more important than ever to have basic computer hardware and software skills. An employer will be looking for computer skills on your resume, and you need to be able to walk the walk in addition to talk to the talk—meaning that you need to be able to know how to use a computer when you’re on the job.
 
