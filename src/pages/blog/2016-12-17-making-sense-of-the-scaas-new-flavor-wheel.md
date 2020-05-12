@@ -12,7 +12,7 @@ featuredimage: /img/adult-class.png
 tags:
   - computer skills
 ---
-![computer skills](/img/home-class.jpg)
+![](/img/home-class.jpg)
 
 With technology becoming more and more prevalent in the workplace, it’s more important than ever to have basic computer hardware and software skills. An employer will be looking for computer skills on your resume, and you need to be able to walk the walk in addition to talk to the talk—meaning that you need to be able to know how to use a computer when you’re on the job.
 
